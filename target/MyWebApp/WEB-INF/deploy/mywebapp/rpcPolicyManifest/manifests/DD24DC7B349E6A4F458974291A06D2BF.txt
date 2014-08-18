@@ -1,0 +1,2 @@
+serviceClass: com.codenvy.example.client.GreetingService
+path: 0BB1262C0967E72C1602BFADB63116C9.gwt.rpc

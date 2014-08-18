@@ -1,0 +1,3 @@
+# Module mywebapp
+# RPC service class, partial path of RPC policy file
+com.codenvy.example.client.GreetingService, 0BB1262C0967E72C1602BFADB63116C9.gwt.rpc
